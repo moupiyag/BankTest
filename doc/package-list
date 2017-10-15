@@ -1,0 +1,6 @@
+com.unibet.worktest.bank
+com.unibet.worktest.bankservice
+com.unibet.worktest.dao
+com.unibet.worktest.exception
+com.unibet.worktest.model
+com.unibet.worktest.util
